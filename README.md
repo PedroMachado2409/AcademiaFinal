@@ -89,3 +89,20 @@ Local: NexusGym.Application.Validators
 Linhas principais: No arquivo todo temos as validações 
 
 Motivo: Essa validação evita que dados inválidos ou incompletos sejam processados, prevenindo vulnerabilidades como SQL Injection e mantendo a integridade dos dados.
+
+# Correcao
+
+| Item | Situacao | Pontos |
+|------|----------|--------|
+| 1. Organizacao em camadas | Aprovado | 1 |
+| 2. Aplicacao de padroes de projeto | Aprovado | 1 |
+| 3. Principios SOLID em pratica | Aprovado | 1 |
+| 4. Convencoes de nomenclatura claras | Aprovado | 1 |
+| 5. Documentacao minima de codigo | Aprovado | 1 |
+| 6. Testes automatizados | Aprovado | 1 |
+| 7. Refatoracoes evidentes | Aprovado | 1 |
+| 8. Tratamento de erros e excecoes | Aprovado | 1 |
+| 9. Exemplos de validacao de entrada | Aprovado | 1 |
+| 10. Heuristicas de usabilidade no frontend | Aprovado | 1 |
+
+**Total 10 / 10**
