@@ -1,11 +1,4 @@
-1 - Um arquivo Readme.md, contendo pelo menos o nome completo de todos os membros do grupo.
-Pedro Machado, Miguel Pacheco, Nicolas de Paula, Lucas Perrin
 
-Backend: Pedro Machado
-
-Front end: Pedro Machado, Miguel Pacheco, Nicolas de Paula, Lucas Perrin
-
-LINK COM O VIDEO: https://drive.google.com/drive/u/0/folders/1I4uphn04Bt-zQk99Vmz7Ln91ErUOP3pB
 
 2 - Aplicação de padrões de projeto
 Deve ser implementado pelo menos um padrão de projeto, como Singleton, Strategy ou Repository, mostrando o padrão foi usado e porque. Deve ser indicado no Readme.md o nome do código fonte e os números das linhas onde se encontra a implementação.
