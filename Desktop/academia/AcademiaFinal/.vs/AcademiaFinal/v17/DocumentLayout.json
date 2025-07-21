@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\celso\\Desktop\\academia\\AcademiaFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A79C9667-D872-41A4-BE46-E16736B79CA3}|..\\NexusGymTests\\NexusGymTests.csproj|c:\\users\\celso\\desktop\\academia\\nexusgymtests\\application\\services\\clienteservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DF4B72-AACA-977F-470D-BF8F91A886F9}|NexusGym.csproj|c:\\users\\celso\\desktop\\academia\\academiafinal\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0DF4B72-AACA-977F-470D-BF8F91A886F9}|NexusGym.csproj|solutionrelative:controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DF4B72-AACA-977F-470D-BF8F91A886F9}|NexusGym.csproj|c:\\users\\celso\\desktop\\academia\\academiafinal\\application\\dto\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0DF4B72-AACA-977F-470D-BF8F91A886F9}|NexusGym.csproj|solutionrelative:application\\dto\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DF4B72-AACA-977F-470D-BF8F91A886F9}|NexusGym.csproj|c:\\users\\celso\\desktop\\academia\\academiafinal\\application\\mapping\\clienteprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0DF4B72-AACA-977F-470D-BF8F91A886F9}|NexusGym.csproj|solutionrelative:application\\mapping\\clienteprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DF4B72-AACA-977F-470D-BF8F91A886F9}|NexusGym.csproj|c:\\users\\celso\\desktop\\academia\\academiafinal\\application\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0DF4B72-AACA-977F-470D-BF8F91A886F9}|NexusGym.csproj|solutionrelative:application\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DF4B72-AACA-977F-470D-BF8F91A886F9}|NexusGym.csproj|c:\\users\\celso\\desktop\\academia\\academiafinal\\application\\validators\\clientevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0DF4B72-AACA-977F-470D-BF8F91A886F9}|NexusGym.csproj|solutionrelative:application\\validators\\clientevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DF4B72-AACA-977F-470D-BF8F91A886F9}|NexusGym.csproj|c:\\users\\celso\\desktop\\academia\\academiafinal\\infrastructure\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0DF4B72-AACA-977F-470D-BF8F91A886F9}|NexusGym.csproj|solutionrelative:infrastructure\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DF4B72-AACA-977F-470D-BF8F91A886F9}|NexusGym.csproj|c:\\users\\celso\\desktop\\academia\\academiafinal\\infrastructure\\interface\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0DF4B72-AACA-977F-470D-BF8F91A886F9}|NexusGym.csproj|solutionrelative:infrastructure\\interface\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DF4B72-AACA-977F-470D-BF8F91A886F9}|NexusGym.csproj|c:\\users\\celso\\desktop\\academia\\academiafinal\\domain\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0DF4B72-AACA-977F-470D-BF8F91A886F9}|NexusGym.csproj|solutionrelative:domain\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DF4B72-AACA-977F-470D-BF8F91A886F9}|NexusGym.csproj|c:\\users\\celso\\desktop\\academia\\academiafinal\\exceptions\\businessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0DF4B72-AACA-977F-470D-BF8F91A886F9}|NexusGym.csproj|solutionrelative:exceptions\\businessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\celso\\Desktop\\academia\\AcademiaFinal\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\celso\\Desktop\\academia\\AcademiaFinal\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "Controllers\\ClienteController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T19:30:21.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClienteDTO.cs",
+              "DocumentMoniker": "C:\\Users\\celso\\Desktop\\academia\\AcademiaFinal\\Application\\Dto\\ClienteDTO.cs",
+              "RelativeDocumentMoniker": "Application\\Dto\\ClienteDTO.cs",
+              "ToolTip": "C:\\Users\\celso\\Desktop\\academia\\AcademiaFinal\\Application\\Dto\\ClienteDTO.cs",
+              "RelativeToolTip": "Application\\Dto\\ClienteDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T19:30:04.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClienteProfile.cs",
+              "DocumentMoniker": "C:\\Users\\celso\\Desktop\\academia\\AcademiaFinal\\Application\\Mapping\\ClienteProfile.cs",
+              "RelativeDocumentMoniker": "Application\\Mapping\\ClienteProfile.cs",
+              "ToolTip": "C:\\Users\\celso\\Desktop\\academia\\AcademiaFinal\\Application\\Mapping\\ClienteProfile.cs",
+              "RelativeToolTip": "Application\\Mapping\\ClienteProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T19:29:59.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClienteValidator.cs",
+              "DocumentMoniker": "C:\\Users\\celso\\Desktop\\academia\\AcademiaFinal\\Application\\Validators\\ClienteValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Validators\\ClienteValidator.cs",
+              "ToolTip": "C:\\Users\\celso\\Desktop\\academia\\AcademiaFinal\\Application\\Validators\\ClienteValidator.cs",
+              "RelativeToolTip": "Application\\Validators\\ClienteValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T19:29:24.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\celso\\Desktop\\academia\\AcademiaFinal\\Infrastructure\\Repositories\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\ClienteRepository.cs",
+              "ToolTip": "C:\\Users\\celso\\Desktop\\academia\\AcademiaFinal\\Infrastructure\\Repositories\\ClienteRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\ClienteRepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T19:29:09.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\celso\\Desktop\\academia\\AcademiaFinal\\Domain\\Cliente.cs",
+              "RelativeDocumentMoniker": "Domain\\Cliente.cs",
+              "ToolTip": "C:\\Users\\celso\\Desktop\\academia\\AcademiaFinal\\Domain\\Cliente.cs",
+              "RelativeToolTip": "Domain\\Cliente.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T19:28:55.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\celso\\Desktop\\academia\\AcademiaFinal\\Application\\Services\\ClienteService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\ClienteService.cs",
+              "ToolTip": "C:\\Users\\celso\\Desktop\\academia\\AcademiaFinal\\Application\\Services\\ClienteService.cs",
+              "RelativeToolTip": "Application\\Services\\ClienteService.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAADwv2cAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T19:27:45.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClienteServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\celso\\Desktop\\academia\\NexusGymTests\\Application\\Services\\ClienteServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\NexusGymTests\\Application\\Services\\ClienteServiceTests.cs",
+              "ToolTip": "C:\\Users\\celso\\Desktop\\academia\\NexusGymTests\\Application\\Services\\ClienteServiceTests.cs",
+              "RelativeToolTip": "..\\NexusGymTests\\Application\\Services\\ClienteServiceTests.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAIwNMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T16:50:23.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BusinessException.cs",
+              "DocumentMoniker": "C:\\Users\\celso\\Desktop\\academia\\AcademiaFinal\\Exceptions\\BusinessException.cs",
+              "RelativeDocumentMoniker": "Exceptions\\BusinessException.cs",
+              "ToolTip": "C:\\Users\\celso\\Desktop\\academia\\AcademiaFinal\\Exceptions\\BusinessException.cs",
+              "RelativeToolTip": "Exceptions\\BusinessException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T19:02:35.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\celso\\Desktop\\academia\\AcademiaFinal\\Infrastructure\\Interface\\IClienteRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Interface\\IClienteRepository.cs",
+              "ToolTip": "C:\\Users\\celso\\Desktop\\academia\\AcademiaFinal\\Infrastructure\\Interface\\IClienteRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Interface\\IClienteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T16:30:55.685Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

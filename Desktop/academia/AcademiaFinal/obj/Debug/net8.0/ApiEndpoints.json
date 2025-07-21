@@ -1,0 +1,476 @@
+[
+  {
+    "ContainingType": "NexusGym.Controllers.ClienteController",
+    "Method": "ListarClientes",
+    "RelativePath": "api/Cliente",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NexusGym.Controllers.ClienteController",
+    "Method": "AdicionarCliente",
+    "RelativePath": "api/Cliente",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "clienteDto",
+        "Type": "NexusGym.Application.Dto.ClienteDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NexusGym.Controllers.ClienteController",
+    "Method": "ObterClientePorId",
+    "RelativePath": "api/Cliente/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NexusGym.Controllers.ClienteController",
+    "Method": "AtualizarCliente",
+    "RelativePath": "api/Cliente/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "clienteDto",
+        "Type": "NexusGym.Application.Dto.ClienteDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NexusGym.Controllers.ClienteController",
+    "Method": "AtivarCliente",
+    "RelativePath": "api/Cliente/{id}/ativar",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NexusGym.Controllers.ClienteController",
+    "Method": "InativarCliente",
+    "RelativePath": "api/Cliente/{id}/inativar",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NexusGym.Controllers.EquipamentoController",
+    "Method": "ListarEquipamentosAsync",
+    "RelativePath": "api/Equipamento",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NexusGym.Controllers.EquipamentoController",
+    "Method": "AdicionarEquipamentoAsync",
+    "RelativePath": "api/Equipamento",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "equipamentoDto",
+        "Type": "NexusGym.Application.Dto.EquipamentoDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NexusGym.Controllers.EquipamentoController",
+    "Method": "ObterEquipamentoPorIdAsync",
+    "RelativePath": "api/Equipamento/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NexusGym.Controllers.FichaDeTreinoController",
+    "Method": "Listar",
+    "RelativePath": "api/FichaDeTreino",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NexusGym.Controllers.FichaDeTreinoController",
+    "Method": "Criar",
+    "RelativePath": "api/FichaDeTreino",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "NexusGym.Application.Dto.FichaDeTreinoDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NexusGym.Controllers.FichaDeTreinoController",
+    "Method": "ObterPorId",
+    "RelativePath": "api/FichaDeTreino/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NexusGym.Controllers.FichaDeTreinoController",
+    "Method": "Atualizar",
+    "RelativePath": "api/FichaDeTreino/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "NexusGym.Application.Dto.FichaDeTreinoDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NexusGym.Controllers.FichaDeTreinoController",
+    "Method": "Ativar",
+    "RelativePath": "api/FichaDeTreino/{id}/ativar",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NexusGym.Controllers.FichaDeTreinoController",
+    "Method": "Desativar",
+    "RelativePath": "api/FichaDeTreino/{id}/desativar",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NexusGym.Controllers.LoginController",
+    "Method": "Login",
+    "RelativePath": "api/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "NexusGym.Application.Dto.LoginDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NexusGym.Controllers.LoginController",
+    "Method": "ObterUsuarioAutenticado",
+    "RelativePath": "api/Login/Eu",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "NexusGym.Application.Dto.UsuarioDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "NexusGym.Controllers.LoginController",
+    "Method": "Registrar",
+    "RelativePath": "api/Login/Registrar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuario",
+        "Type": "NexusGym.Domain.Usuario",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NexusGym.Controllers.PlanoController",
+    "Method": "ObterTodosOsPlanos",
+    "RelativePath": "api/Plano",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NexusGym.Controllers.PlanoController",
+    "Method": "AdicionarPlano",
+    "RelativePath": "api/Plano",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "plano",
+        "Type": "NexusGym.Application.Dto.PlanoDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NexusGym.Controllers.PlanoController",
+    "Method": "ObterPlanoPorId",
+    "RelativePath": "api/Plano/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NexusGym.Controllers.PlanoController",
+    "Method": "AtualizarPlano",
+    "RelativePath": "api/Plano/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "planoDto",
+        "Type": "NexusGym.Application.Dto.PlanoDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NexusGym.Controllers.PlanoController",
+    "Method": "AtivarPlano",
+    "RelativePath": "api/Plano/ativar/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NexusGym.Controllers.PlanoController",
+    "Method": "InativarPlano",
+    "RelativePath": "api/Plano/inativar/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NexusGym.Controllers.PlanoClienteController",
+    "Method": "ListarPlanosClientes",
+    "RelativePath": "api/PlanoCliente",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NexusGym.Controllers.PlanoClienteController",
+    "Method": "AdicionarPlanoCliente",
+    "RelativePath": "api/PlanoCliente",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "planoClienteDto",
+        "Type": "NexusGym.Application.Dto.PlanoClienteDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NexusGym.Controllers.PlanoClienteController",
+    "Method": "ObterPlanoClientePorId",
+    "RelativePath": "api/PlanoCliente/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NexusGym.Controllers.PlanoClienteController",
+    "Method": "AtualizarPlanoCliente",
+    "RelativePath": "api/PlanoCliente/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "planoClienteDto",
+        "Type": "NexusGym.Application.Dto.PlanoClienteDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NexusGym.Controllers.PlanoClienteController",
+    "Method": "AtivarPlanoCliente",
+    "RelativePath": "api/PlanoCliente/{id}/ativar",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NexusGym.Controllers.PlanoClienteController",
+    "Method": "InativarPlanoCliente",
+    "RelativePath": "api/PlanoCliente/{id}/inativar",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
